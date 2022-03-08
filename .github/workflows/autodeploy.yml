@@ -45,7 +45,7 @@ jobs:
       run: |
         hexo clean
         hexo generate
-@github.com:L2019math/L2019math.github.io.git 
+        
     - name: 部署
       run: |
         git config --global user.name "L2019math"
