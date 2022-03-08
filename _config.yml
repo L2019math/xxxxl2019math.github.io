@@ -104,7 +104,7 @@ theme: butterfly
 deploy:
   type: git
   repo:
-    github: https://L2019math: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@github.com:L2019math/L2019math.github.io.git,main
+    github: https://L2019math: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@github.com/L2019math/L2019math.github.io.git,main
     #gitee: https://akilar:f57?????????108603a?????06b279bb@gitee.com/akilar/akilar.git,master
     #coding: https://RD????ddMy:a4e4???????f8ce670dcb????1c4a2688cd????7@e.coding.net/akilar/akilar/akilar.git,master
   #2020年10月后github新建仓库默认分支改为main，注意更改
