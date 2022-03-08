@@ -8,16 +8,6 @@ cover: /img/tourist.jpg
 
 ## 每日打卡
 
-- 1
-- 1
-- 2
-- 3
-  1. a
-  2. s
-  3. 
-- 4
-- 
-
 If one does not know to which port one is sailing ,  no wind is favorite .
 
 > 翻译见文末
